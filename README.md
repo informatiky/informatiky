@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a curious creator, impossible inventor, professional procrastinator, spirited skier, confident climber, headstrong high schooler, and the-person-who-always-complains-they-have-too-much-to-do-but-never-says-no.
+
+You can find out more about me on my [blog](https://blog.dobrev.net), where I write about anything and everything. I am most active on my [mastodon](https://social.dobrev.net/@johannes) instance. As a high school student, I can only devote some of my time to computers, so my activity on Github may be limited. I am a big fan of [@hackclub](https://github.com/hackclub) which gives us, students, endless opportunities to code, learn and be social.
 <!--
 **jodobrev/jodobrev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
